@@ -4,7 +4,7 @@ title: "Contact"
 author_profile: false
 ---
 
-* email: mtodisco10@gmail.com
-* github: [mtodisco10](https://github.com/mtodisco10)
-* medium: [@mtodisco10](https://medium.com/@mtodisco10)
-* twitter: [@TodiscoMichael](https://twitter.com/TodiscoMichael)
+* Email: [mtodisco10@gmail.com](https://gmail.com)
+* GitHub: [mtodisco10](https://github.com/mtodisco10)
+* Medium: [@mtodisco10](https://medium.com/@mtodisco10)
+* Twitter: [@TodiscoMichael](https://twitter.com/TodiscoMichael)
