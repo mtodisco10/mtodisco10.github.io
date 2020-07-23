@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Michael Todisco"
   avatar           : "/images/profile_pic.png" #"/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Manager @ Splash"
+  bio              : "Data Science Manager @Splash"
   location         : "New York, NY"
   email            :
   uri              :
