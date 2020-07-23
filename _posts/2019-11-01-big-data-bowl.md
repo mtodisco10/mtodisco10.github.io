@@ -11,5 +11,6 @@ During the 2019 football season, the NFL and Kaggle teamed up to launch an aweso
 
 After weeks and weeks of working on the competition, my model used a blend several techniques from clustering to using Voronoi diagrams to a Neural Network for prediction.  Ultimately, I was able to place 391st out of 2,038 teams **(TOP 20%)**.
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/BDB_leaderboard.png" alt="Big Data Bowl Leaderboard">
 
 For a look at my code, checkout my [Notebook on Kaggle] (https://www.kaggle.com/mtodisco10/final-big-data-bowl-submission).
