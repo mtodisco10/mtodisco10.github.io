@@ -1,3 +1,13 @@
+---
+title: "Google Cloud & NCAA ML Competition 2019-Men's"
+date: 2019-03-01
+tags: [machine learning, kaggle]
+# header:
+#  overlay_image: "/images/amari_rex.png"
+excerpt: "Machine Learning, Kaggle"
+mathjax: "true"
+---
+
 # Google Cloud & NCAA ML Competition 2019-Men's
 
 
