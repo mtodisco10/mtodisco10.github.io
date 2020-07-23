@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael Todisco"
+title                    : "Data Science Manager @ Splash"
 title_separator          : "-"
 name                     : "Michael Todisco"
 description              : "Data Science Manager @ Splash"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Michael Todisco"
   avatar           : "/images/profile_pic.png" #"/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
+  bio              : "Data Science Manager @ Splash"
   location         : "New York, NY"
   email            :
   uri              :
