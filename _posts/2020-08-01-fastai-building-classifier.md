@@ -6,5 +6,4 @@ excerpt: "Machine Learning, fast.ai"
 mathjax: "true"
 ---
 
-# Classifying Building Architecture Style with fast.ai
-### https://classifying-building-architecture.onrender.com/
+https://classifying-building-architecture.onrender.com/
