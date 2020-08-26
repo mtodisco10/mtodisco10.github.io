@@ -2,7 +2,7 @@
 title: "Classifying Building Architecture Style with fast.ai"
 date: 2020-08-01
 tags: [deep learning, fast.ai, deployment]
-excerpt: "Deep Learning, fast.ai Deployment"
+excerpt: "Deep Learning, fast.ai, Deployment"
 mathjax: "true"
 ---
 
