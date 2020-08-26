@@ -22,3 +22,5 @@ My code can be found in this [notebook](https://github.com/mtodisco10/fastaiProj
 
 The end result can be found [HERE](https://classifying-building-architecture.onrender.com/).  Upload an image of a building and see what the model classifies it as.
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/architecture_classifier.png" alt="Architecture Classifier">
+
