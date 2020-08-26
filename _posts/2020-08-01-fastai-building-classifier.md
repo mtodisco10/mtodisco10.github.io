@@ -1,8 +1,8 @@
 ---
 title: "Classifying Building Architecture Style with fast.ai"
 date: 2020-08-01
-tags: [machine learning, fast.ai]
-excerpt: "Machine Learning, fast.ai"
+tags: [deep learning, fast.ai, deployment]
+excerpt: "Deep Learning, fast.ai Deployment"
 mathjax: "true"
 ---
 
@@ -16,7 +16,7 @@ For my project I decided to use fast.ai to build an image classification model t
 
 My code can be found in this [notebook](https://github.com/mtodisco10/fastaiProjects/blob/master/architecture_classifier.ipynb) but the general steps I took were:
 1. Create a dataset of images from Google Image search
-2. Download 
+2. Download and format the images into labeled folders
 3. Train the model and understand the performance
 4. Deploy the model using [Render](https://render.com/)
 
