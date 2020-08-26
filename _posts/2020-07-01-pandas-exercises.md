@@ -7,7 +7,7 @@ header:
 mathjax: "true"
 ---
 
-The other day I came across this great [resource](https://github.com/guipsamora/pandas_exercises) for learning and/or practicing pandas.  Thanks to [Guilherme Samora](https://github.com/guipsamora) for creating it!  
+The other day I came across this great [resource](https://github.com/guipsamora/pandas_exercises) for learning and/or practicing pandas.  So I decided to brush up on my skills.  Thanks to [Guilherme Samora](https://github.com/guipsamora) for creating it!  
 
 Within the repo, there are several exercises that explore key pandas concepts such as:
 * Filtering & Sorting
