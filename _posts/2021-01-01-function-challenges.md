@@ -97,3 +97,29 @@ leaderboards([
     { 'name': 'c', 'score': 115, 'reputation': 30 },
   ])
 ```
+
+### Remove the Computer Virus
+Your computer might have been infected by a virus! Create a function that finds the viruses in `files` and removes them from your computer.
+
+```python
+def remove_virus(files):
+    split_files = files.split()
+    new_lst = []
+    for x in split_files:
+        if ('virus' in x) and ('notvirus' not in x) and ('antivirus' not in x):
+            continue
+        elif ('malware' in x):
+            continue
+        else:
+            new_lst.append(x)
+    final_string = ' '.join(new_lst)
+    if final_string[-1] == ',':
+        return final_string[:-1]
+    elif final_string[-1] == ':':
+        return final_string + ' Empty'
+    else:
+        return final_string
+    
+remove_virus("PC Files: antivirus.exe, cat.pdf, lethalmalware.exe, dangerousvirus.exe ")
+```
+
